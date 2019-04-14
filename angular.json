@@ -7,7 +7,7 @@
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
-      "prefix": "app",
+      "prefix": "ms3",
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
